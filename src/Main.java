@@ -8,7 +8,7 @@
 	int rollNumber;
 	char grade;
 	
-	void displayDetails() {
+	public void displayDetails() {
 		System.out.println("Name of the student:"+name);
 		System.out.println("Roll number of the student: "+rollNumber);
 		System.out.println("Grade of the student:"+grade);
